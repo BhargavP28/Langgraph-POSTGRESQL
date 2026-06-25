@@ -1,3 +1,0 @@
-[ 2026-06-25 20:32:34,774 ] INFO llm.py (line:18) - Initializing ChatGroq model: llama-3.3-70b-versatile
-[ 2026-06-25 20:32:35,476 ] INFO llm.py (line:18) - Initializing ChatGroq model: llama-3.3-70b-versatile
-[ 2026-06-25 20:32:36,747 ] INFO graph.py (line:43) - Graph compiled successfully with SQLite checkpointer

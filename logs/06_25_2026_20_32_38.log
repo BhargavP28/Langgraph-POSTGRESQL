@@ -1,9 +1,0 @@
-[ 2026-06-25 20:32:38,627 ] INFO llm.py (line:18) - Initializing ChatGroq model: llama-3.3-70b-versatile
-[ 2026-06-25 20:32:39,194 ] INFO llm.py (line:18) - Initializing ChatGroq model: llama-3.3-70b-versatile
-[ 2026-06-25 20:32:40,420 ] INFO graph.py (line:43) - Graph compiled successfully with SQLite checkpointer
-[ 2026-06-25 20:33:09,702 ] INFO main.py (line:20) - Received chat request: thread_id=1003, message=Hi ,How are you
-[ 2026-06-25 20:33:09,839 ] INFO chatbot.py (line:19) - Invoking Groq LLM for chatbot node
-[ 2026-06-25 20:33:10,265 ] INFO httpx (line:1025) - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
-[ 2026-06-25 20:33:10,278 ] INFO chatbot.py (line:22) - Chatbot node received response from LLM
-[ 2026-06-25 20:33:10,519 ] INFO main.py (line:32) - Graph invocation succeeded
-[ 2026-06-25 20:33:10,519 ] INFO main.py (line:35) - AI Response: Hello. I'm doing well, thanks for asking. I'm a large language model, so I don't have feelings or emotions like humans do, but I'm always happy to chat and help with any questions or topics you'd like to discuss. How about you? How's your day going so far?
