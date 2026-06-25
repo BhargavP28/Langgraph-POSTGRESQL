@@ -70,8 +70,6 @@ This project demonstrates how to build an AI chatbot with graph-based workflows 
 ## Testing
 - Swagger UI
 
-## Deployment
-- Docker
 
 ---
 
@@ -134,7 +132,7 @@ langgraph-postgres/
 │   └── llm.py
 │       # Groq LLM initialization
 │
-├── Dockerfile
+|
 ├── requirements.txt
 ├── README.md
 └── .env
@@ -234,19 +232,7 @@ http://127.0.0.1:8000/docs
 
 
 
-# 🐳 Docker Usage
 
-Build Docker image:
-
-```bash
-docker build -t langgraph-chatbot .
-```
-
-Run container:
-
-```bash
-docker run -p 8000:8000 langgraph-chatbot
-```
 
 ---
 
