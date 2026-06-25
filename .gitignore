@@ -8,3 +8,5 @@ build/
 dist/
 wheels/
 *.egg-info
+
+logs/
