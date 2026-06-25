@@ -1,0 +1,10 @@
+[ 2026-06-25 18:43:32,060 ] INFO llm.py (line:18) - Initializing ChatGroq model: llama-3.3-70b-versatile
+[ 2026-06-25 18:43:33,805 ] INFO llm.py (line:18) - Initializing ChatGroq model: llama-3.3-70b-versatile
+[ 2026-06-25 18:43:34,628 ] ERROR graph.py (line:47) - failed to initialize graph/checkpointer: [WinError 123] The filename, directory name, or volume label syntax is incorrect: 'postgresql:'
+Traceback (most recent call last):
+  File "E:\Bhargav\Langgraph-Chatbot-POSTGRES\src\graph.py", line 39, in <module>
+    os.makedirs(db_dir, exist_ok=True)
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen os>", line 218, in makedirs
+  File "<frozen os>", line 228, in makedirs
+OSError: [WinError 123] The filename, directory name, or volume label syntax is incorrect: 'postgresql:'

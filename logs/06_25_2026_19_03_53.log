@@ -1,0 +1,162 @@
+[ 2026-06-25 19:03:53,791 ] INFO llm.py (line:18) - Initializing ChatGroq model: llama-3.3-70b-versatile
+[ 2026-06-25 19:03:54,808 ] INFO llm.py (line:18) - Initializing ChatGroq model: llama-3.3-70b-versatile
+[ 2026-06-25 19:03:57,280 ] INFO graph.py (line:43) - Graph compiled successfully with SQLite checkpointer
+[ 2026-06-25 19:04:28,572 ] INFO main.py (line:20) - Received chat request: thread_id=1003, message=what are 7 wonders
+[ 2026-06-25 19:04:29,581 ] INFO chatbot.py (line:19) - Invoking Groq LLM for chatbot node
+[ 2026-06-25 19:04:30,948 ] INFO httpx (line:1025) - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[ 2026-06-25 19:04:30,972 ] INFO chatbot.py (line:22) - Chatbot node received response from LLM
+[ 2026-06-25 19:04:31,498 ] INFO main.py (line:32) - Graph invocation succeeded
+[ 2026-06-25 19:04:31,498 ] INFO main.py (line:35) - AI Response: The 7 Wonders of the World is a list of remarkable constructions or natural formations that are considered to be the most impressive and awe-inspiring in the world. There are actually two lists: the Ancient 7 Wonders of the World and the New 7 Wonders of the World.
+
+**The Ancient 7 Wonders of the World:**
+
+1. **The Great Pyramid of Giza**: The only surviving structure from the original list, this pyramid in Egypt is an iconic symbol of ancient civilization.
+2. **The Hanging Gardens of Babylon**: Located in present-day Iraq, these beautiful gardens were said to be built by the Neo-Babylonian King Nebuchadnezzar II for his wife.
+3. **The Statue of Zeus at Olympia**: A massive statue of the Greek god Zeus, built by the famous sculptor Phidias and located in Greece.
+4. **The Temple of Artemis at Ephesus**: A massive temple built in present-day Turkey to honor the Greek goddess Artemis.
+5. **The Mausoleum at Halicarnassus**: A grand tomb built for King Mausolus in present-day Turkey.
+6. **The Colossus of Rhodes**: A massive bronze statue of the Greek god Helios, built in the Greek city of Rhodes.
+7. **The Lighthouse of Alexandria**: A towering lighthouse built on the island of Pharos in Egypt to guide ships into the busy port of Alexandria.
+
+**The New 7 Wonders of the World:**
+
+In 2007, a new list of the 7 Wonders of the World was compiled through a worldwide poll. The new list includes:
+
+1. **The Great Wall of China**: A series of fortifications built across China to protect the country from invasions.
+2. **The Taj Mahal**: A stunning white marble mausoleum built in India by the Mughal emperor Shah Jahan as a tribute to his wife.
+3. **Machu Picchu**: An Inca citadel built in Peru in the 15th century, abandoned before the arrival of the Spanish conquistadors.
+4. **Chichén Itzá**: A pre-Columbian Mayan city built in Mexico, known for its pyramids, temples, and astronomical observatories.
+5. **The Roman Colosseum**: An iconic amphitheater built in Rome, Italy, where gladiators fought and public events were held.
+6. **The Christ the Redeemer statue**: A massive Art Deco statue of Jesus Christ built in Rio de Janeiro, Brazil.
+7. **The Pyramids of Giza**: Again, the only surviving structure from the original list, this pyramid in Egypt is an iconic symbol of ancient civilization.
+
+Both lists are a testament to human ingenuity, creativity, and perseverance, and continue to inspire wonder and awe in people around the world.
+[ 2026-06-25 19:05:21,038 ] INFO main.py (line:20) - Received chat request: thread_id=1003, message=cricket worldcup 2026
+[ 2026-06-25 19:05:21,293 ] INFO chatbot.py (line:19) - Invoking Groq LLM for chatbot node
+[ 2026-06-25 19:05:22,830 ] INFO httpx (line:1025) - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[ 2026-06-25 19:05:22,833 ] INFO chatbot.py (line:22) - Chatbot node received response from LLM
+[ 2026-06-25 19:05:23,337 ] INFO main.py (line:32) - Graph invocation succeeded
+[ 2026-06-25 19:05:23,337 ] INFO main.py (line:35) - AI Response: The ICC Cricket World Cup 2026 is scheduled to take place in the United States and the West Indies. This will be the 14th edition of the tournament, and it will feature 10 teams competing in a round-robin format, followed by a knockout stage.
+
+**Host Countries:**
+The 2026 ICC Cricket World Cup will be co-hosted by the United States and the West Indies. The United States will host a significant number of matches, with the West Indies hosting the remaining games.
+
+**Participating Teams:**
+The 10 teams that will participate in the 2026 ICC Cricket World Cup are:
+
+1. **Australia**
+2. **Bangladesh**
+3. **England**
+4. **India**
+5. **New Zealand**
+6. **Pakistan**
+7. **South Africa**
+8. **Sri Lanka**
+9. **United States** (as the host country)
+10. **West Indies**
+
+**Venues:**
+The matches will be played at various venues across the United States and the West Indies. Some of the confirmed venues include:
+
+* **United States:**
+	+ Miami (Hard Rock Stadium)
+	+ New York (Citi Field)
+	+ Los Angeles (Dodger Stadium)
+	+ Houston (Minute Maid Park)
+* **West Indies:**
+	+ Barbados (Kensington Oval)
+	+ Jamaica (Sabina Park)
+	+ Trinidad and Tobago (Queen's Park Oval)
+	+ Guyana (Providence Stadium)
+
+**Schedule:**
+The tournament is expected to take place from October to November 2026. The exact schedule has not been announced yet, but it is likely to include a round-robin stage, followed by a knockout stage featuring the top teams.
+
+**Format:**
+The 2026 ICC Cricket World Cup will feature a round-robin stage, where each team will play the other nine teams once. The top four teams will then qualify for the knockout stage, which will consist of two semi-finals and a final.
+
+**Defending Champions:**
+The current champions are **England**, who won the 2019 ICC Cricket World Cup by defeating New Zealand in a thrilling final at Lord's Cricket Ground in London.
+
+The 2026 ICC Cricket World Cup promises to be an exciting tournament, with the best teams and players from around the world competing for the coveted title. Will the United States, as the host country, be able to make a strong impression, or will one of the traditional cricketing powerhouses emerge as the champion? Only time will tell!
+[ 2026-06-25 19:05:51,657 ] INFO main.py (line:20) - Received chat request: thread_id=1003, message=use of laptop
+[ 2026-06-25 19:05:51,882 ] INFO chatbot.py (line:19) - Invoking Groq LLM for chatbot node
+[ 2026-06-25 19:05:53,723 ] INFO httpx (line:1025) - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[ 2026-06-25 19:05:53,725 ] INFO chatbot.py (line:22) - Chatbot node received response from LLM
+[ 2026-06-25 19:05:54,137 ] INFO main.py (line:32) - Graph invocation succeeded
+[ 2026-06-25 19:05:54,137 ] INFO main.py (line:35) - AI Response: Laptops have become an essential tool in our daily lives, and their uses are vast and varied. Here are some of the most common uses of laptops:
+
+**Personal Use:**
+
+1. **Browsing the Internet**: Laptops allow you to access the internet from anywhere, making it easy to stay connected with friends and family, check emails, and stay up-to-date with the latest news and trends.
+2. **Social Media**: Laptops enable you to stay connected with social media platforms, share updates, and stay in touch with friends and family.
+3. **Entertainment**: Laptops can be used to watch movies, TV shows, and videos, play games, and listen to music.
+4. **Productivity**: Laptops can be used to create documents, spreadsheets, and presentations, making them an essential tool for students, professionals, and entrepreneurs.
+
+**Professional Use:**
+
+1. **Work**: Laptops are widely used in the workplace for tasks such as email, word processing, and data analysis.
+2. **Remote Work**: With the rise of remote work, laptops have become an essential tool for professionals who work from home or on the go.
+3. **Presentations**: Laptops are often used to create and deliver presentations, making them a vital tool for business professionals, educators, and trainers.
+4. **Video Conferencing**: Laptops can be used for video conferencing, making it easy to connect with colleagues, clients, and partners remotely.
+
+**Educational Use:**
+
+1. **Online Learning**: Laptops are widely used in online learning, allowing students to access online courses, tutorials, and educational resources.
+2. **Research**: Laptops can be used to conduct research, access academic databases, and collaborate with peers on research projects.
+3. **Note-taking**: Laptops can be used to take notes, organize assignments, and stay on top of coursework.
+4. **Virtual Field Trips**: Laptops can be used to take virtual field trips, allowing students to explore new places and experiences without leaving the classroom.
+
+**Creative Use:**
+
+1. **Graphic Design**: Laptops can be used for graphic design, allowing artists and designers to create visual content, edit photos, and design graphics.
+2. **Video Editing**: Laptops can be used for video editing, allowing filmmakers and videographers to create and edit video content.
+3. **Music Production**: Laptops can be used for music production, allowing musicians and producers to create and edit music.
+4. **Writing**: Laptops can be used for writing, allowing authors and writers to create and edit written content.
+
+**Other Uses:**
+
+1. **Gaming**: Laptops can be used for gaming, allowing gamers to play a wide range of games on the go.
+2. **Travel**: Laptops can be used to plan and book travel, access travel guides, and stay connected with family and friends while on the go.
+3. **Finance**: Laptops can be used to manage personal finances, access online banking, and track investments.
+4. **Health and Fitness**: Laptops can be used to track fitness goals, access health and wellness resources, and connect with healthcare professionals remotely.
+
+These are just a few examples of the many uses of laptops. With their portability, versatility, and connectivity, laptops have become an essential tool in our daily lives.
+[ 2026-06-25 19:06:15,273 ] INFO main.py (line:20) - Received chat request: thread_id=1003, message=use of paractmol
+[ 2026-06-25 19:06:15,457 ] INFO chatbot.py (line:19) - Invoking Groq LLM for chatbot node
+[ 2026-06-25 19:06:16,979 ] INFO httpx (line:1025) - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[ 2026-06-25 19:06:16,981 ] INFO chatbot.py (line:22) - Chatbot node received response from LLM
+[ 2026-06-25 19:06:16,982 ] INFO summary.py (line:19) - Invoking Groq LLM for summary node
+[ 2026-06-25 19:06:18,454 ] INFO httpx (line:1025) - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[ 2026-06-25 19:06:18,455 ] INFO summary.py (line:22) - Summary node received response from LLM
+[ 2026-06-25 19:06:18,919 ] INFO main.py (line:32) - Graph invocation succeeded
+[ 2026-06-25 19:06:18,919 ] INFO main.py (line:35) - AI Response: I think you meant "paracetamol"!
+
+Paracetamol, also known as acetaminophen, is a widely used over-the-counter medication that has several uses. Here are some of the most common uses of paracetamol:
+
+**Pain Relief:**
+
+1. **Headaches**: Paracetamol is often used to relieve headaches, including tension headaches and migraines.
+2. **Toothaches**: Paracetamol can help alleviate toothache pain, especially when combined with other treatments like dental care.
+3. **Muscle and Joint Pain**: Paracetamol can help relieve muscle and joint pain, making it a popular choice for people with arthritis, fibromyalgia, and other musculoskeletal conditions.
+4. **Menstrual Cramps**: Paracetamol can help relieve menstrual cramps and other symptoms associated with PMS.
+
+**Fever Reduction:**
+
+1. **Reducing Fever**: Paracetamol is often used to reduce fever in adults and children, making it a popular choice for parents and caregivers.
+2. **Relieving Cold and Flu Symptoms**: Paracetamol can help relieve symptoms associated with the common cold and flu, such as headache, fever, and body aches.
+
+**Other Uses:**
+
+1. **Relieving Pain after Vaccinations**: Paracetamol can help relieve pain and discomfort after vaccinations, especially in children.
+2. **Managing Pain after Surgery**: Paracetamol can be used to manage pain after surgery, especially in combination with other pain medications.
+3. **Relieving Pain associated with Osteoarthritis**: Paracetamol can help relieve pain and stiffness associated with osteoarthritis, especially in older adults.
+
+**Important Safety Information:**
+
+1. **Dosage**: Always follow the recommended dosage instructions on the label or as directed by your doctor.
+2. **Contraindications**: Paracetamol is not suitable for everyone, especially those with liver disease, kidney disease, or certain allergies.
+3. **Interactions**: Paracetamol can interact with other medications, such as blood thinners, and decrease their effectiveness.
+4. **Overdose**: Taking too much paracetamol can lead to serious liver damage, so it's essential to follow the recommended dosage and consult your doctor if you have any concerns.
+
+Remember to always consult your doctor or pharmacist before taking paracetamol, especially if you have any underlying medical conditions or are taking other medications.

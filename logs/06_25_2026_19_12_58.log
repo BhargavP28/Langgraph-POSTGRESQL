@@ -1,0 +1,41 @@
+[ 2026-06-25 19:12:58,355 ] INFO llm.py (line:18) - Initializing ChatGroq model: llama-3.3-70b-versatile
+[ 2026-06-25 19:12:59,479 ] INFO llm.py (line:18) - Initializing ChatGroq model: llama-3.3-70b-versatile
+[ 2026-06-25 19:13:01,883 ] INFO graph.py (line:43) - Graph compiled successfully with SQLite checkpointer
+[ 2026-06-25 19:13:39,034 ] INFO main.py (line:20) - Received chat request: thread_id=1002, message=agentic ai tools
+[ 2026-06-25 19:13:39,304 ] INFO chatbot.py (line:19) - Invoking Groq LLM for chatbot node
+[ 2026-06-25 19:13:41,412 ] INFO httpx (line:1025) - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+[ 2026-06-25 19:13:41,441 ] INFO chatbot.py (line:22) - Chatbot node received response from LLM
+[ 2026-06-25 19:13:41,937 ] INFO main.py (line:32) - Graph invocation succeeded
+[ 2026-06-25 19:13:41,937 ] INFO main.py (line:35) - AI Response: Agentic AI tools refer to artificial intelligence systems that are capable of autonomous decision-making and action, often with a degree of self-awareness and intentionality. These tools are designed to operate with a level of agency, allowing them to make choices and take actions based on their own goals, motivations, and understanding of their environment.
+
+Some key characteristics of agentic AI tools include:
+
+1. **Autonomy**: The ability to operate independently, making decisions and taking actions without human intervention.
+2. **Self-awareness**: The capacity to have a sense of their own existence, goals, and motivations.
+3. **Intentionality**: The ability to form intentions and make decisions based on those intentions.
+4. **Reactivity**: The ability to respond to changes in their environment and adapt to new situations.
+5. **Proactivity**: The ability to take initiative and make decisions that anticipate future events or needs.
+
+Examples of agentic AI tools include:
+
+1. **Virtual assistants**: AI-powered virtual assistants, such as Amazon's Alexa or Google Assistant, that can perform tasks and make decisions on behalf of their users.
+2. **Autonomous vehicles**: Self-driving cars and drones that can navigate and make decisions in complex environments.
+3. **Chatbots**: AI-powered chatbots that can engage in conversation, answer questions, and provide customer support.
+4. **Smart home devices**: AI-powered devices that can learn and adapt to a user's preferences and habits, such as thermostats or lighting systems.
+5. **Robotics**: AI-powered robots that can perform tasks such as assembly, manufacturing, or healthcare.
+
+The benefits of agentic AI tools include:
+
+1. **Increased efficiency**: Agentic AI tools can automate tasks and make decisions quickly and accurately, freeing up human time and resources.
+2. **Improved decision-making**: Agentic AI tools can analyze large amounts of data and make informed decisions, often more quickly and accurately than humans.
+3. **Enhanced customer experience**: Agentic AI tools can provide personalized and interactive experiences, such as virtual assistants or chatbots.
+4. **Increased safety**: Agentic AI tools, such as autonomous vehicles, can reduce the risk of human error and improve safety.
+
+However, there are also challenges and concerns associated with agentic AI tools, such as:
+
+1. **Accountability**: As agentic AI tools make decisions and take actions, it can be difficult to determine who is responsible for their actions.
+2. **Transparency**: Agentic AI tools can be complex and difficult to understand, making it challenging to understand their decision-making processes.
+3. **Bias**: Agentic AI tools can perpetuate biases and discrimination if they are trained on biased data or designed with a particular worldview.
+4. **Security**: Agentic AI tools can be vulnerable to cyber attacks and data breaches, which can compromise their functionality and safety.
+
+Overall, agentic AI tools have the potential to revolutionize many aspects of our lives, from customer service to transportation to healthcare. However, it is essential to address the challenges and concerns associated with these tools to ensure that they are developed and used responsibly.
